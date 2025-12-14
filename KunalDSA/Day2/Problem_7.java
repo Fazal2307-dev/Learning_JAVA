@@ -8,6 +8,8 @@ public class Problem_7{
         int temp = a;
         a=b;
         b=temp;
-        System.out.print(a+" "+b);
+        System.out.println(a+" "+b);
+        a^=b;b^=a;a^=b;
+        System.out.println(a+" "+b);
     }
 }
