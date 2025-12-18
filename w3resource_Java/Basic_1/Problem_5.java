@@ -13,5 +13,8 @@ public class Problem_5{
         //subtraction
         int subtraction = a-b;
         System.out.println("subtraction of a and b:"+subtraction);
+        //division
+        int division = a /b;
+        System.out.println("Division of a and b:"+division);
     }
 }
