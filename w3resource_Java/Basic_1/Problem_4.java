@@ -6,6 +6,7 @@ public class Problem_4{
         //b. (55+9) % 9
         System.out.println((55+9) % 9);
         //c. 20 + -3*5 / 8
+        System.out.println(20 + -3*5 / 8);
         //d. 5 + 15 / 3 * 2 - 8 % 3
     }
 }
