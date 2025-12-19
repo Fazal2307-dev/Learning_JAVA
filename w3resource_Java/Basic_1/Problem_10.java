@@ -7,6 +7,9 @@ public class Problem_10{
         int length = sc.nextInt(),breadth =sc.nextInt();
         //Area of rectangle
         int AreaOfRectangle = length * breadth;
-        System.out.print("Area of Rectangle:"+AreaOfRectangle);
+        System.out.println("Area of Rectangle:"+AreaOfRectangle);
+        //Perimeter of Rectangle
+        int PerimeterOfRectangle = 2*length*breadth;
+        System.out.print("Perimeter of Rectangle:"+PerimeterOfRectangle);
     }
 }
