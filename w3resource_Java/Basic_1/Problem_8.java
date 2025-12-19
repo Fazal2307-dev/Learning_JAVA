@@ -4,5 +4,7 @@ public class Problem_8{
         double Radius = 7.5;
         //Perimeter of circle
         System.out.println("Perimeter of circle:"+(2*3.14*Radius));
+        //Area of circle
+        System.out.println("Area of Circle:"+(3.14*Radius*Radius));
     }
 }
