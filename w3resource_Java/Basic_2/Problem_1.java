@@ -11,5 +11,7 @@ public class Problem_1{
         System.out.println( false && true);
         //e) (false && false) || (true && true)
         System.out.println( (false && false) || (true && true));
+        //f) (false || false) && (true && true)
+
     }
 }
