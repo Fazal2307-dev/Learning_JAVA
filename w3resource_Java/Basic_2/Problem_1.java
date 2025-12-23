@@ -7,5 +7,7 @@ public class Problem_1{
         System.out.println( 3.0e-6 * 10000000.1);
         //c) true && true
         System.out.println( true && true);
+        //d) false && true
+        System.out.println( false && true);
     }
 }
