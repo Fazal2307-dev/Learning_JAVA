@@ -2,6 +2,8 @@
 public class Problem_1{
     public static void main(String[] args){
         //a) 101 + 0) / 3
-        System.out.print( (101 + 0) / 3);
+        System.out.println( (101 + 0) / 3);
+        //b) 3.0e-6 * 10000000.1
+        System.out.println( 3.0e-6 * 10000000.1);
     }
 }
