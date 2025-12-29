@@ -28,6 +28,7 @@ public class Problem_6{
 
         System.out.println("Your speed in meters/second is "+mps);
         System.out.println("Your speed in km/h is "+kph);
+        System.out.println("Your speed in miles/h is "+mph);
 
 
 
