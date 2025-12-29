@@ -7,5 +7,6 @@ public class Problem_5{
         System.out.print("Enter value of n:");
         int n = in.nextInt();
         System.out.println("Square of n:"+n*n);
+        System.out.println("Cube of n:"+n*n*n);
     }
 }
