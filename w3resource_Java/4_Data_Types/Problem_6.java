@@ -27,6 +27,8 @@ public class Problem_6{
         mph = kph / 1.609f;
 
         System.out.println("Your speed in meters/second is "+mps);
+        System.out.println("Your speed in km/h is "+kph);
+
 
 
 
