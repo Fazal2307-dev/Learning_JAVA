@@ -8,5 +8,6 @@ public class Problem_5{
         int n = in.nextInt();
         System.out.println("Square of n:"+n*n);
         System.out.println("Cube of n:"+n*n*n);
+        System.out.println("fourth Power of n:"+n*n*n*n);
     }
 }
