@@ -23,5 +23,8 @@ public class Problem_9{
         System.out.println("Is "+fn1 + " is finite? " + f1f);
         System.out.println("Is "+fn2 + " (fn1/0) is finite? " + f2f);
         System.out.println("Is "+fn3 + " is finite? " + f3f);
+        System.out.println("Is "+fn1 + " is finite? " + f1f);
+        System.out.println("Is "+fn2 + " (fn1/0) is finite? " + f2f);
+        System.out.println("Is "+fn3 + " is finite? " + f3f);
     }
 }
