@@ -1,7 +1,7 @@
 //Write a Java program to test if a given number (positive integer)
 // is a perfect square or not.
 import java.util.*;
-public class Problem_44{
+public class Problem_45{
     // Main method to execute the solution
     public static void main(String[] args) {
         // Create a Scanner object for user input
