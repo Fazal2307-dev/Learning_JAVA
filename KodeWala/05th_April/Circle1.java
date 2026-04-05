@@ -20,7 +20,8 @@ class Circle {
         this.color = "white";
     }
 }
- public class Circle{
+
+ public class Circle1{
     public static void main(String[] args){
         Circle c1 = new Circle(5.5, "red");
         Circle c2 = new Circle(3.0);
