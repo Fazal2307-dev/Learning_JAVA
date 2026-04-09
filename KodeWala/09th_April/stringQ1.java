@@ -5,5 +5,7 @@ class StringLiterals{
         String s3 = "Fazal";
         System.out.println(s1 == s2);
         System.out.println(s2 == s3);
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3));
     }
 }
