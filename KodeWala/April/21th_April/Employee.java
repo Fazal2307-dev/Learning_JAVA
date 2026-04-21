@@ -7,7 +7,7 @@ class salary{
         System.out.println("your base plus bonus salary will be: "+baseBonus);
     }
     public void calculateSalary(int base,int bonus,int incentives){
-        int baseBonusIncentives = base + base+incentives;
+        int baseBonusIncentives = base + bonus+incentives;
         System.out.println("your base plus bonus plus incentives salary will be: "+baseBonusIncentives);
     }
 }
