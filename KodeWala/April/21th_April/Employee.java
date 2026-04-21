@@ -4,11 +4,11 @@ class salary{
     }
     public void calculateSalary(int base,int bonus){
         int baseBonus = base + bonus;
-        System.out.println("your base salary will be: "+baseBonus);
+        System.out.println("your base plus bonus salary will be: "+baseBonus);
     }
     public void calculateSalary(int base,int bonus,int incentives){
         int baseBonusIncentives = base + base+incentives;
-        System.out.println("your base salary will be: "+baseBonusIncentives);
+        System.out.println("your base plus bonus plus incentives salary will be: "+baseBonusIncentives);
     }
 }
 public class Employee {
