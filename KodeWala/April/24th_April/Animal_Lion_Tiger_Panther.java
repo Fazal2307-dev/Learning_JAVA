@@ -16,6 +16,7 @@ class Lion extends Animal{
     void eat(){
         System.out.println("Lion.eat(Meat)");
     }
+    @Override
     void sound(){
         System.out.println("Lion.sound(Roar)");
     }
@@ -26,6 +27,7 @@ class Tiger extends Animal{
     void eat(){
         System.out.println("Tiger.eat(Fish and Meat)");
     }
+    @Override
     void sound(){
         System.out.println("Tiger.sound(Roar)");
     }
@@ -36,6 +38,7 @@ class Panther extends Animal{
     void eat(){
         System.out.println("Panther.eat(Meat and vegitable)");
     }
+    @Override
     void sound(){
         System.out.println("Panther.sound(Roar)");
     }
