@@ -5,8 +5,6 @@ abstract class DeliveryItems{
         System.out.println("DeliveryItems.delivery()");
     }
 }
-
-
 class Product extends DeliveryItems{
     @Override
     public void  delivehry() {
