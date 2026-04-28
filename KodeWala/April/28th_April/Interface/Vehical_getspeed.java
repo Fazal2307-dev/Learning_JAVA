@@ -5,32 +5,32 @@ interface Vehical{
     public abstract double getSpeed();
 }
 class Car implements Vehical{
-    private double speed;
+
     private double time;
     private double distance;
     public Car(double distance,double time){
         this.distance=distance;
-        this.speed=speed;
+
         this.time = time;
     }
     @Override
     public double getSpeed(){
-        speed = distance / time;
+       double  speed = distance / time;
         return speed;
     }
 }
 class Bike implements Vehical{
-    private double speed;
+
     private double time;
     private double distance;
     public Bike(double distance,double time){
         this.distance=distance;
-        this.speed=speed;
+
         this.time = time;
     }
     @Override
     public double getSpeed(){
-        speed = distance / time;
+       double  speed = distance / time;
         return speed;
     }
 }
