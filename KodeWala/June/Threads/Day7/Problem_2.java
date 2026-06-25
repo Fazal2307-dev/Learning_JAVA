@@ -58,7 +58,7 @@ class Customer5 extends Thread{
 
     }
 }
-public class Driver1 {
+public class Problem_2 {
 
     public static void main(String[] args) throws InterruptedException {
         BankAccount5 account = new BankAccount5();
